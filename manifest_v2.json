@@ -27,43 +27,43 @@
   "downloads": {
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "n66_full.bin"
+      "file_name": "n66_full.bin.enc"
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "n67_full.bin"
+      "file_name": "n67_full.bin.enc"
     },
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "o66_full.bin"
+      "file_name": "o66_full.bin.enc"
     },
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "o66_full.bin"
+      "file_name": "o66_full.bin.enc"
     },
     "xmws3": {
       "version": "1.0.0",
-      "file_name": "x62_full.bin"
+      "file_name": "x62_full.bin.enc"
     },
     "xmws4": {
       "version": "1.0.0",
-      "file_name": "x62_full.bin"
+      "file_name": "x62_full.bin.enc"
     },
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "x65_full.bin"
+      "file_name": "x65_full.bin.enc"
     },
     "xmws4xring": {
       "version": "1.0.0",
-      "file_name": "x62_full.bin"
+      "file_name": "x62_full.bin.enc"
     },
     "xmrw5xring": {
       "version": "1.0.0",
-      "file_name": "x65_full.bin"
+      "file_name": "x65_full.bin.enc"
     },
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "x65_full.bin"
+      "file_name": "x65_full.bin.enc"
     }
   },
   "ext": {
