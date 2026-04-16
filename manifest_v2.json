@@ -47,6 +47,7 @@
     },
     "xmws4": {
       "version": "1.0.0",
+      "versionCode": 65537,
       "file_name": "x62_full.bin.enc"
     },
     "xmrw5": {
@@ -91,7 +92,6 @@
       },
       "xmws4": {
         "version": "1.0.0",
-        "versionCode": 65537,
         "file_name": "x62.bin"
       },
       "xmrw5": {
